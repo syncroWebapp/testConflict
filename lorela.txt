@@ -1,1 +1,2 @@
-test Lorela
+test Lorela 
+Sorin treb sa faca conflicte
