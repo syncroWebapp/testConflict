@@ -1,2 +1,3 @@
 test Lorela 
 Sorin treb sa faca conflicte
+.
